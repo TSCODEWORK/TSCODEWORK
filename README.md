@@ -2,7 +2,7 @@
 
 # Tino Specht
 
-**Full-Stack & Systems Builder** — Shipping live production web apps, edge data networks, and practical automation.
+**AI-Native Product Builder & Producer** — Turning messy real-world needs into clean UX and live, working tools fast.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-tinobuildsstuff.pages.dev-111827?style=for-the-badge&logo=cloudflarepages&logoColor=white)](https://tinobuildsstuff.pages.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-@TSCODEWORK-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TSCODEWORK)
@@ -11,7 +11,7 @@
 
 ---
 
-I build software to solve real-world operational problems—from commercial rental fleet systems and real-time hydrological monitoring networks to solar financial engines and local-first tools.
+I combine real-world operational experience, multimedia production, and AI-native workflows to ship software people actually use—from commercial rental fleet systems and live river gauge networks to solar calculators and local-first tools.
 
 ### Live Systems in Production
 
@@ -35,7 +35,7 @@ I build software to solve real-world operational problems—from commercial rent
 
 ---
 
-### Core Stack & Capabilities
+### Technologies Behind the Builds
 
 **Languages & Frameworks**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -53,8 +53,8 @@ I build software to solve real-world operational problems—from commercial rent
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-**Systems & Automation Focus**  
-`Agent Tooling & MCP Servers` · `Media & Desktop Workflow Automation` · `Edge Cron Data Pipelines` · `Local-First Apps`
+**Problem Domains & Focus**  
+`AI-Native Product Building` · `Agent Tooling & MCP Workflows` · `Media & Desktop Automation` · `Edge Data Pipelines` · `Local-First Tools`
 
 ---
 
